@@ -52,8 +52,11 @@ Add visualizations for prediction trends
 
 👩‍💻 Author
 Maleeha Jabeen
-🎓 IT Engineering Student, Shadan Women's College of Engineering and Technology
-
+3rd Year IT Engineering Student
+Shadan Women's College of Engineering and Technology
+Aspiring AI Developer passionate about creating innovative, real-world AI solutions using a combination of no-code tools and traditional programming.
+Connect: LinkedinIn Profile : www.linkedin.com/in/
+maleeha-jabeen-0988462a2
 
 📄 License
 This project is open-source under the MIT License.
